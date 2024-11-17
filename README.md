@@ -1,9 +1,8 @@
-# Color-Mixer
-An artist's guide to color theory
-
 # Video Link:
 https://drive.google.com/file/d/10PNL0dtrncV1PK2QxqL4UPbmpfuHM3WB/view?usp=drive_link
 
+# Color-Mixer
+An artist's guide to color theory
 
 Run the program by python interpreter
 
